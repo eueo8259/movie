@@ -126,18 +126,4 @@
 ![image](https://github.com/hajungin/movie/assets/162389696/f49b0c3e-3c01-4482-b33a-822195eccf54)
 
 
-
-
-
-  
-# 🧩 ERD
-![ERD_1](https://github.com/hajungin/movie/blob/master/cinemaERD_1.png)
----
-
-
-![ERD_2](https://github.com/hajungin/movie/blob/master/cinemaERD_2.png)
----
-
-
-![ERD_3](https://github.com/hajungin/movie/blob/master/cinemaERD_3.png)
-
+[CINEMA PROJECT 최종.pptx](https://github.com/user-attachments/files/16676557/CINEMA.PROJECT.pptx)
